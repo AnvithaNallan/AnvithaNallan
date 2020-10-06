@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](https://github.com/AnvithaNallan/AnvithaNallan/blob/main/Readme_header.png "Header")
 
 ###  :girl: A little bit about me 
 
