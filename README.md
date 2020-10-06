@@ -35,6 +35,3 @@ While I am pursuing a degree in Computer Science at BITS Pilani, I found my inte
 
 ### :mag: How to find me
 You can follow me on [LinkedIn](https://www.linkedin.com/in/anvitha-nallan-469aa7197/)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnvithaNallan&theme=dracula" />
