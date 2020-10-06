@@ -22,7 +22,7 @@ Hi! My name is **Anvitha Nallan** and I am an **aspiring UI/UX Designer** with a
 
 ### :books: What I'm currently working on 
 
-While I am pursuing a degree in Computer Science at BITS Pilani, I found my interest in the field of **Human Centered Design**, and have taken up several courses outside of college to hone my skills in the field. I have completed a **Specialisation in UI/UX Design** offered by CalArts on Coursera, where I designed 3 different apps/desktop - mobile websites as a part of the course. Through the process, I have become proficient in quiet a few wireframing and prototyping tools: *Adobe Illustrator, Adobe XD, Balsamiq,* to name a few. I plan to pick up some ***freelance projects*** in designing apps/websites to further work on my skills. 
+While I am pursuing a degree in Computer Science at BITS Pilani, I found my interest in the field of **Human Centered Design**, and have taken up several courses outside of college to hone my skills in the field. I have completed a **Specialisation in UI/UX Design** offered by CalArts on Coursera, where I designed 3 different apps/desktop - mobile websites as a part of the course. Through the process, I have become proficient in quite a few wireframing and prototyping tools: *Adobe Illustrator, Adobe XD, Balsamiq,* to name a few. I plan to pick up some ***freelance projects*** in designing apps/websites to further work on my skills. 
 
 ### 🔧 Skills and Tools
 ![](https://img.shields.io/badge/Wireframing-Balsamiq-informational?style=flat&color=pink)
