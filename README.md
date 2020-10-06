@@ -36,3 +36,8 @@ While I am pursuing a degree in Computer Science at BITS Pilani, I found my inte
 
 ### :mag: How to find me
 You can follow me on [LinkedIn](https://www.linkedin.com/in/anvitha-nallan-469aa7197/)
+
+### :bookmark: Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnvithaNallan&repo=FindersKeepers-App-Design&theme=dracula)](https://github.com/AnvithaNallan/FindersKeepers-App-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnvithaNallan&repo=Alive-App-Design&theme=dracula)](https://github.com/AnvithaNallan/Alive-App-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnvithaNallan&repo=Smart-Garden-Website-Design&theme=dracula)](https://github.com/AnvithaNallan/Smart-Garden-Website-Design)
