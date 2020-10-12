@@ -41,3 +41,4 @@ You can follow me on [LinkedIn](https://www.linkedin.com/in/anvitha-nallan-469aa
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnvithaNallan&repo=FindersKeepers-App-Design&theme=dracula)](https://github.com/AnvithaNallan/FindersKeepers-App-Design)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnvithaNallan&repo=Alive-App-Design&theme=dracula)](https://github.com/AnvithaNallan/Alive-App-Design)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnvithaNallan&repo=Smart-Garden-Website-Design&theme=dracula)](https://github.com/AnvithaNallan/Smart-Garden-Website-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnvithaNallan&repo=Its-A-Wrap-Website-Desktop-and-Mobile-Design&theme=dracula)](https://github.com/AnvithaNallan/It-s-A-Wrap-Website-and-Mobile-Design)
