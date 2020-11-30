@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###  :girl: A little bit about me 
 
-Hi! My name is **Anvitha Nallan** and I am an **aspiring UI/UX Designer** with a passion for creating aesthetic and interactive user experiences. I like to consider myself a very creative individual, and I constantly keep myself busy, be it through *painting*, or by *baking* a delicious cake. I also love *basketball* and *dance*. Occasionally, I also dabble in some *video editing*.
+Hi! My name is **Anvitha Nallan** and I am an **aspiring UI/UX Designer** with a passion for creating aesthetic and interactive user experiences. I like to consider myself a very creative individual, and I constantly keep myself busy, be it through *painting*, or by *baking* a delicious cake. I also love *basketball* and *dance*. Occasionally, I also dabble in some *video editing*. Here's a [short intro video](https://youtu.be/iccYyM2zRl) I made about myself, where you can also see the video editing skills I talk about :wink:
 
 ### :books: What I'm currently working on 
 
